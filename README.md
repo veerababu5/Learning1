@@ -1,7 +1,3 @@
-# GitHub tutorial
+# GitHub
 
-Github tutorial will be here
-
-## youtube video link
-
-Git & GitHub Basics:
+Github
